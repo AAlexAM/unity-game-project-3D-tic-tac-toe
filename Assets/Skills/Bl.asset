@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61d7588aa13d096478f325aeb0bdb42c, type: 3}
+  m_Name: Bl
+  m_EditorClassIdentifier: Assembly-CSharp::BlockData
+  icone: {fileID: 2800000, guid: 16ae666328c040d4b95d80068f58cc1b, type: 3}
+  cooldownMax: 2
+  stackMax: 2
+  effectCooldown: 2
